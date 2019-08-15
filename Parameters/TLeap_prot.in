@@ -1,0 +1,5 @@
+source leaprc.protein.ff14SB
+loadamberparams frcmod.ionsjc_tip3p
+rec = loadpdb protein2.pdb
+savepdb rec rec.pdb
+quit

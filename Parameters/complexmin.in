@@ -1,0 +1,13 @@
+Minimise all
+ &cntrl
+  imin   = 1,
+  maxcyc = 2000,
+  ncyc = 500,
+  ntr = 1,
+  ntb = 0,cut=16.0,
+/
+END
+END
+
+
+
